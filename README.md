@@ -1,23 +1,11 @@
-# Confirms Package
-![GitHub](https://img.shields.io/github/license/compatibl/confirms)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/confirms)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/confirms)
-![PyPI](https://img.shields.io/pypi/v/confirms)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/compatibl/confirms/pulls)
+# Practical Language Models Workshop Examples
+![GitHub](https://img.shields.io/github/license/compatibl/practical-language-models)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/compatibl/practical-language-models/pulls)
 ## Overview
 
-***THIS PACKAGE CONTAINS RESEARCH CODE AND IS NOT INTENDED FOR PRODUCTION USE***
+***THIS PACKAGE CONTAINS WORKSHOP EXAMPLES AND IS NOT INTENDED FOR PRODUCTION USE***
 
-This package contains research code that can perform AI comprehension of trade
-confirmations, model source code, and model documentation for the purposes of
-model governance.
-
-The objective is to support the following use cases:
-
-- Validation of trade capture using LLM comprehension of trade confirmations
-- Validation of model documentation using LLM comprehension of source code
-- Validation of source code, identifying bugs and deviations from the approved methodology
-- LLM generation of model documentation and release note drafts
+This package contains open-source examples for the Practical Language Models workshop series.
 
 ## Copyright
 
